@@ -4,7 +4,7 @@
 
 2\. NPM
 
-3\. Fork https://github.com/inviti8/proprium\_dev a private repo you will be given access to.
+3\. Fork https://github.com/inviti8/proprium_dev a private repo you will be given access to.
 
 4\. cd into the repo, and link for use.
 
