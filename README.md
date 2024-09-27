@@ -70,8 +70,3 @@ Typing interactions are handled at lines 1839-1866.
 
 &nbsp;
 
-&nbsp;
-
-Currently typing is 
-
-&nbsp;
